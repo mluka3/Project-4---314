@@ -1,1 +1,11 @@
-
+age,gender,education,mental_illbeing_cause_1,mental_illbeing_cause_2,mental_illbeing_mechanism_1,mental_illbeing_mechanism_2,favorite_modern_feature_1,favorite_modern_feature_2,favorite_modern_feature_3,mothers_specific,fathers_specific,children_specific
+24,Female,16,Social Media,Work Stress,Social comparison and cyberbullying,High workload and job insecurity,Online shopping,Access to information,Traffic congestion,Lack of support and societal pressure,Lack of work-life balance,Academic pressure
+45,Male,20,Trauma,Financial difficulties,Triggers traumatic memories,Inability to meet basic needs,Online Gaming,Instant messaging,Digital addiction,Postpartum depression,Financial burden,Academic pressure
+29,Non-binary,18,Social Isolation,Financial difficulties,Loneliness and economic insecurity,Inability to meet basic needs,Video streaming services,Online communities,Cyberbullying,Lack of access to healthcare,Lack,Cyberbullying
+35,F,18,Social media,Stress,Social media overuse,Pressure from work,Online shopping,Remote work,Traffic,Lack of support,Work-life balance,Cyberbullying
+28,M,16,Social media,Lack of social support,Isolation and comparison,Lack of social interaction,Online education,E-commerce,Traffic,Postpartum depression,Work-life balance,Academic pressure
+28,Male,16,Social media,Stress,"Constant comparison and unrealistic expectations, Overwhelming demands",Overexposure to negative news and social isolation,Technology,Improved healthcare,Climate change,Work-life balance,Financial stability,Social media
+42,Female,20,Financial instability,Social isolation,"Unemployment and debt, Lack of social support",Loneliness and lack of social connection,Access to information,Healthcare advancements,Increased environmental awareness,Lack of support systems,Work-life balance,Academic pressure
+28,Female,18,Stress,Social Media,Work pressure,Social comparison,Online shopping,Traveling,Traffic congestion,Lack of support,Work-life balance,Screen time
+35,Male,16,Trauma,Workload,Childhood abuse,Overburdening workload,Streaming movies,Flexible work hours,Fast-paced lifestyle,Lack of support,Financial stress,Social media
+42,Female,20,Trauma,Substance abuse,Domestic violence,Addiction,Online learning,Smart home technology,Cyberbullying,Work-life balance,Financial stress,Screen time
